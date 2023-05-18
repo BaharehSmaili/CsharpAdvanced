@@ -1,0 +1,15 @@
+D:\Git_project\CsharpAdvanced\bin\Debug\net7.0\CsharpAdvanced.exe
+D:\Git_project\CsharpAdvanced\bin\Debug\net7.0\CsharpAdvanced.deps.json
+D:\Git_project\CsharpAdvanced\bin\Debug\net7.0\CsharpAdvanced.runtimeconfig.json
+D:\Git_project\CsharpAdvanced\bin\Debug\net7.0\CsharpAdvanced.dll
+D:\Git_project\CsharpAdvanced\bin\Debug\net7.0\CsharpAdvanced.pdb
+D:\Git_project\CsharpAdvanced\obj\Debug\net7.0\CsharpAdvanced.csproj.AssemblyReference.cache
+D:\Git_project\CsharpAdvanced\obj\Debug\net7.0\CsharpAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_project\CsharpAdvanced\obj\Debug\net7.0\CsharpAdvanced.AssemblyInfoInputs.cache
+D:\Git_project\CsharpAdvanced\obj\Debug\net7.0\CsharpAdvanced.AssemblyInfo.cs
+D:\Git_project\CsharpAdvanced\obj\Debug\net7.0\CsharpAdvanced.csproj.CoreCompileInputs.cache
+D:\Git_project\CsharpAdvanced\obj\Debug\net7.0\CsharpAdvanced.dll
+D:\Git_project\CsharpAdvanced\obj\Debug\net7.0\refint\CsharpAdvanced.dll
+D:\Git_project\CsharpAdvanced\obj\Debug\net7.0\CsharpAdvanced.pdb
+D:\Git_project\CsharpAdvanced\obj\Debug\net7.0\CsharpAdvanced.genruntimeconfig.cache
+D:\Git_project\CsharpAdvanced\obj\Debug\net7.0\ref\CsharpAdvanced.dll
